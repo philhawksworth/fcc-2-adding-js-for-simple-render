@@ -27,6 +27,8 @@ git clone https://github.com/philhawksworth/fcc-3-adding-js-for-simple-render
 
 If you wanted to quickly clone this repository and deploy it as a new site on [Netlify](https://www.netlify.com?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex) you can click the button below for a rapid start.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/fcc-3-adding-js-for-simple-render)
+
 
 
 ## Watch the video
