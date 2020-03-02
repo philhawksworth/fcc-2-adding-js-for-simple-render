@@ -20,7 +20,7 @@ In the video, we show the pre-built, ready-to-serve assets to out hosting enviro
 To work on this example locally, you can clone the repository and simply start editing. There is no build step or any pre-requisites.
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/philhawksworth/fcc-3-adding-js-for-simple-render
 ```
 
 ## Clone and deploy
